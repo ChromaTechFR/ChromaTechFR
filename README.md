@@ -31,17 +31,13 @@ I would like to become a fullstack developer
 
 <br />
 
-<!--START_SECTION:activity-->
-- ✅ • Actual
-- ⚒️ • Working on
+Discord :
+- ⚒️ • [Yazhrod bot](https://discord.com/oauth2/authorize?client_id=600657757825269760&permissions=0&scope=bot)
 
 Other:
 - ⚒️ • My portfolio
 - ⚒️ • [Chroma_progress](https://github.com/ChromaTechFR/ProgressBar)
 
-
-Discord :
-- ⚒️ • [Yazhrod bot](https://discord.com/oauth2/authorize?client_id=600657757825269760&permissions=0&scope=bot)
 
 <!--END_SECTION:activity-->
 
