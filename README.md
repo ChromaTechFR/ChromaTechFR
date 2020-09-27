@@ -1,7 +1,7 @@
 ### Hey! I'm Neil.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/NSpeedcubing?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/NSpeedcubing)
-[![Github Follow](https://chromatechfr.github.io/main.html)
+[Github](https://chromatechfr.github.io/main.html) portfolio
 ## I'm a student
  
 I would like to become a fullstack developer
