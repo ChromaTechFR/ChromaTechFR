@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/NSpeedcubing?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/NSpeedcubing)
 
 ## I'm a student
-[portfolio](https://chromatechfr.github.io/main.html)
+[portfolio](https://chromatechfr.github.io/portfolio)
 <br />
 I would like to become a fullstack developer
   
