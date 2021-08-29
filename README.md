@@ -1,14 +1,15 @@
-### Hey! I'm Neil.
+### Hey! I'm Neil. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/NSpeedcubing?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/NSpeedcubing)
+- 🔭 I’m currently working on [Yazhrod](https://yazhrod.fr)
+- 😄 I'm 18 yo dev
+- ⚡ Love: csgo
+- [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
-## I'm a student
+## Top Technologies
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
 [portfolio](https://chromatechfr.github.io/portfolio)
-<br />
-I would like to become a fullstack developer
-
-<br />
 
 ### Languages and Tools:
 
@@ -24,17 +25,14 @@ I would like to become a fullstack developer
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
+<br/>
 
-### Connect with me:
+## 📊 My github stats
 
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
-<br />
-
-### My favourites programming languages
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChromaTechFR&count_private=true&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChromaTechFR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChromaTechFR&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 ### My projets
 
@@ -46,7 +44,7 @@ Discord :
 
 Other:
 
-- ⚒️ • My portfolio
+- ⚒️ • [My portfolio](https://github.com/ChromaTechFR/portfolio)
 - ⚒️ • [Chroma_progress](https://github.com/ChromaTechFR/ProgressBar)
 
 <!--END_SECTION:activity-->
@@ -56,6 +54,5 @@ Other:
 <br />
 <br />
 
----
-
 [discord]: https://discord.gg/MvKD9Az
+[twitch]: https://www.twitch.tv/chromatech
