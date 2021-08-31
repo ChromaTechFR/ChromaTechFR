@@ -3,13 +3,10 @@
 - 🔭 I’m currently working on [Yazhrod](https://yazhrod.fr)
 - 😄 I'm 18 yo dev
 - ⚡ Love: csgo
-- [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
+- [portfolio](https://chromatechfr.github.io/portfolio)
 ## Top Technologies
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-
-[portfolio](https://chromatechfr.github.io/portfolio)
 
 ### Languages and Tools:
 
